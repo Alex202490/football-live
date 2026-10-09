@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://alex202490.github.io/football-live/sitemap.xml
